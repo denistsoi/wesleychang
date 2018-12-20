@@ -1,0 +1,24 @@
+{
+  "name": "wesleychang",
+  "version": "0.1.0",
+  "description": "A personal card for Wesley Chang",
+  "main": "index.js",
+  "bin": {
+    "wesleychang": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Wesley Chang",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
